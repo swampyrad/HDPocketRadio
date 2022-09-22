@@ -1,6 +1,0 @@
-//pocket radio sprite
-
-sprite rdioa0, 18,35{
-offset 9, 35
-patch rdioa0, 0, 0{}
-}
